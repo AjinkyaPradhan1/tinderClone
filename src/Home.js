@@ -24,9 +24,10 @@ function Home() {
                             <div className="dropbtn">Product</div>
                             <div className="dropdown_content1">
                                 <a href="">Premium Features</a>
-                                <a href="">Tinder Plus</a>
-                                <a href="">Tinder Gold</a>
-                                <a href="">Tinder Platinum</a>
+                                <a href="">Subscription Tiers</a>
+                                <a href="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tinder Plus&#174;</a>
+                                <a href="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tinder Gold&#8482;</a>
+                                <a href="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tinder Platinum&#8482;</a>
                                 <a href="">Swipe Night</a>
                             </div>
 
@@ -52,8 +53,7 @@ function Home() {
 
 
             <div className="app_body">
-                hello<br />
-                <br />                app_header_icon
+                hello
             </div>
 
             <div className="app_footer" />
