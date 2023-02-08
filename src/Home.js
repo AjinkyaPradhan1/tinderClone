@@ -10,7 +10,10 @@ function Home() {
                     <img className="logo" src="./images/tinder_logo2.jpg" alt="logo_image" />
                 </div>
 
-                <div className="app_header_list" />
+                <div className="app_header_list">
+                    <div className="app_header_list_appName" />
+                    <div className="app_header_list_content" />
+                </div>
 
             </div>
 
