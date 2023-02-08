@@ -56,7 +56,7 @@
     align-items: flex-end;
     justify-content: flex-start;
     flex-grow: 1;
-    width: 9%;
+    width: 11%;
     height: 100%;
     background-color: transparent;
     font-size: 320%;
@@ -67,56 +67,70 @@
     display: flex;
     justify-content: left;
     align-items: center;
-    flex-grow: 4;
+    flex-grow: 5;
     flex-direction: row;
-    width: 81%;
+    width: 51%;
     height: 100%;
     background-color: transparent;
-    font-size: 140%;
-    font-weight: 500;
+    font-size: 130%;
+    font-weight:500;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
     gap:0px
 }
+.app_header_language_login{
+    display: flex;
+    flex-grow: 2;
+    width: 30%;
+    height: 100%;
+    background-color: crimson;
+}
+
 .app_header_list_content_1{
     display: flex;
+    overflow: hidden;
     align-items: center;
-    justify-content: center;
-    width: 7%;
+    justify-content: left;
+    width: 12%;
     height: 100%;
     background-color: transparent;
     position: relative;
 }
 .app_header_list_content_3{
     display: flex;
+    overflow: hidden;
     align-items: center;
-    justify-content: center;
-    width: 7%;
+    justify-content: left;
+    width: 11%;
     height: 100%;
     background-color: transparent;
 }
 
 .app_header_list_content_2{
     display: flex;
+    overflow: hidden;
     align-items: center;
-    justify-content: center;
-    width: 7%;
+    justify-content: left;
+    width: 10%;
     height: 100%;
     background-color: transparent;
 }
 .app_header_list_content_4
 {
     display: flex;
+    overflow: hidden;
     align-items: center;
-    justify-content: center;
-    width: 7%;
+    justify-content: left;
+    width: 12%;
     height: 100%;
     background-color: transparent;
 }
 .app_header_list_content_5{
     display: flex;
+    overflow: hidden;
     align-items: center;
     justify-content: center;
-    width: 10%;
+    width: 14%;
     height: 100%;
     background-color: transparent;
 }
@@ -194,5 +208,14 @@
     .dropbtn:hover .dropbtn {
         text-decoration: double;
     }
+    /* .app_header_language{
+        display: flex;
+        justify-self: right;
+        justify-content: center;
+        align-items: center;
+        width: 10%;
+        height: 100%;
+        background-color: orange;
+    } */
 
 /*App header part ends*/
