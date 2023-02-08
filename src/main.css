@@ -208,14 +208,37 @@
     .dropbtn:hover .dropbtn {
         text-decoration: double;
     }
-    /* .app_header_language{
+    .app_header_language{
+        display: flex;
+        justify-self: right;
+        justify-content: right;
+        align-items: center;
+        width: 50%;
+        height: 100%;
+        font-size: 150%;
+        font-weight: 500;
+        background-color: transparent;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    } 
+    .app_header_login{
         display: flex;
         justify-self: right;
         justify-content: center;
         align-items: center;
-        width: 10%;
+        width: 50%;
         height: 100%;
-        background-color: orange;
-    } */
+        
+        background-color: transparent;
 
+    } 
+    .btn_login{
+        font-size: 120%;
+        font-weight: 600;
+        width: 55%;
+        height: 50%;
+        border: 2px black;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        border-radius: 30px 30px 30px 30px;
+    }
+    
 /*App header part ends*/

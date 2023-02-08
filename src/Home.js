@@ -47,12 +47,14 @@ function Home() {
                         <div className="app_header_list_content_4">Support</div>
                         <div className="app_header_list_content_5">Download</div>
 
-                        <div className="app_header_language">Language</div>
-                        <div className="app_header_login">Login</div>
-
                     </div>
 
-                    <div className="app_header_language_login" />
+                    <div className="app_header_language_login">
+                        <div className="app_header_language"><i className="fa fa-language" />Language</div>
+                        <div className="app_header_login">
+                            <button className="btn_login">Log in</button>
+                        </div>
+                    </div>
                 </div>
 
             </div>
