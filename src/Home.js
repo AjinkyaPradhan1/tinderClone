@@ -61,7 +61,9 @@ function Home() {
 
 
             <div className="app_body">
-                hello
+                <div className="back_image">
+                    <img className="back_image1" src="./images/main_page_back3.jpg" alt="background_image" />
+                </div>
             </div>
 
             <div className="app_footer" />
