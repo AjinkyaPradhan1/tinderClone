@@ -22,7 +22,7 @@ function Home() {
                             {/* Dropdown used in header file */}
 
                             <div className="dropbtn">Product</div>
-                            <div className="dropdown_content">
+                            <div className="dropdown_content1">
                                 <a href="">Premium Features</a>
                                 <a href="">Tinder Plus</a>
                                 <a href="">Tinder Gold</a>
@@ -33,7 +33,16 @@ function Home() {
 
                         </div>
                         <div className="app_header_list_content_2">Learn</div>
-                        <div className="app_header_list_content_3">Safety</div>
+                        <div className="app_header_list_content_3">
+                            <div className="dropbtn">Safety</div>
+                            <div className="dropdown_content2">
+                                <a href="">Community Guidelines</a>
+                                <a href="">Safety Tips</a>
+                                <a href="">Safety & Policy</a>
+                                <a href="">Safety & Reporting</a>
+                                <a href="">Security</a>
+                            </div>
+                        </div>
                         <div className="app_header_list_content_4">Support</div>
                         <div className="app_header_list_content_5">Download</div>
                     </div>
@@ -43,7 +52,8 @@ function Home() {
 
 
             <div className="app_body">
-                hello
+                hello<br />
+                <br />                app_header_icon
             </div>
 
             <div className="app_footer" />
