@@ -15,11 +15,11 @@ function Home() {
                         tinder
                     </div>
                     <div className="app_header_list_content">
-                        Products
-                        Learn
-                        Safety
-                        Support
-                        Download
+                        <div className="app_header_list_content_1">Product</div>
+                        <div className="app_header_list_content_2">Learn</div>
+                        <div className="app_header_list_content_3">Safety</div>
+                        <div className="app_header_list_content_4">Support</div>
+                        <div className="app_header_list_content_5">Download</div>
                     </div>
                 </div>
 

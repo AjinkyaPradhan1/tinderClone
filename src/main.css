@@ -47,8 +47,8 @@
     flex-direction: row;
     height: 100%;
     width: 91%;
-    background-color: aqua;
-    color: black;
+    background-color: transparent;
+    color: white;
 }
 .app_header_list_appName{
     display: flex;
@@ -57,24 +57,50 @@
     flex-grow: 1;
     width: 9%;
     height: 100%;
-    background-color: red;
+    background-color: transparent;
     font-size: 320%;
     font-weight: 650;
-    color: black;
+    color: white;
 }
 .app_header_list_content{
     display: flex;
-    justify-content: space-between;
+    justify-content: left;
     align-items: center;
-    
     flex-grow: 4;
     flex-direction: row;
     width: 81%;
     height: 100%;
-    background-color: orange;
+    background-color: transparent;
     font-size: 140%;
-    font-weight: 700;
-    color: black;
-    
+    font-weight: 500;
+    color: white;
+    gap:0px
+}
+.app_header_list_content_1,
+.app_header_list_content_3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 7%;
+    height: 100%;
+    background-color: transparent;
+}
 
+.app_header_list_content_2,
+.app_header_list_content_4
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 7%;
+    height: 100%;
+    background-color: transparent;
+}
+.app_header_list_content_5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 10%;
+    height: 100%;
+    background-color: transparent;
 }
