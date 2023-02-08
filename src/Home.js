@@ -11,8 +11,16 @@ function Home() {
                 </div>
 
                 <div className="app_header_list">
-                    <div className="app_header_list_appName" />
-                    <div className="app_header_list_content" />
+                    <div className="app_header_list_appName">
+                        tinder
+                    </div>
+                    <div className="app_header_list_content">
+                        Products
+                        Learn
+                        Safety
+                        Support
+                        Download
+                    </div>
                 </div>
 
             </div>
