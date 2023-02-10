@@ -173,7 +173,25 @@ function Home() {
 
             </div>
 
-            <div className="app_footer" />
+            <div className="app_footer">
+                <div className="app_footer_row1">
+                    <div className="app_footer_row1_col1">
+                        <ul>
+                            <li><b>Legal</b></li>
+                            <li>Privacy</li>
+                            <li>Terms</li>
+                            <li>Cookie Policy</li>
+                            <li>Intellectual Property</li>
+                        </ul>
+
+                    </div>
+                    <div className="app_footer_row1_col2" />                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         <div className="app_footer_row1_col3" />
+                    <div className="app_footer_row1_col4" />
+                </div>
+                <div className="app_footer_row2">Hello</div>
+                <div className="app_footer_row3">Hello</div>
+                <div className="app_footer_row4">Hello</div>
+            </div>
 
         </div>
     );
