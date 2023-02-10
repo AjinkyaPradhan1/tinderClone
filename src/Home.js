@@ -122,7 +122,22 @@ function Home() {
                         <div className="back_image_content1">Start Something Epic.</div>
                         <button className="button_create_account">Create Account</button>
                     </div>
+
+
                 </div>
+                <div className="user_reviews">
+                    <div className="user_reviews1">
+                        <div className="user_reviews_col1">
+                            <div className="user_reviews_col1_row1" />
+                            <div className="user_reviews_col1_row2" />
+                        </div>
+                        <div className="user_reviews_col2" />
+                    </div>
+                    <div className="user_reviews2" />
+                    <div className="user_reviews3" />
+                </div>
+
+
             </div>
 
             <div className="app_footer" />
