@@ -6,7 +6,7 @@ function Home() {
         <div className="main">
             <div className="app_header">
 
-                {/* app header icon  */}
+                {/* app header icon */}
                 <div className="app_header_icon">
                     <img className="logo" src="./images/tinder_logo2.jpg" alt="logo_image" />
                 </div>
@@ -62,7 +62,66 @@ function Home() {
 
             <div className="app_body">
                 <div className="back_image">
-                    <img className="back_image1" src="./images/main_page_back3.jpg" alt="background_image" />
+                    <div id="back_image_base" >
+                        <img className="back_image1" src="./images/main_page_back3.jpg" alt="background_image" />
+
+                        <div className="app_header">
+
+                            {/* app header icon */}
+                            <div className="app_header_icon">
+                                <img className="logo" src="./images/tinder_logo2.jpg" alt="logo_image" />
+                            </div>
+
+                            {/* app header list  */}
+                            <div className="app_header_list">
+                                {/* app header tinder written next to the icon  */}
+                                <div className="app_header_list_appName">
+                                    tinder
+                                </div>
+                                <div className="app_header_list_content">
+                                    <div className="app_header_list_content_1">
+                                        {/* Dropdown used in header file */}
+
+                                        <div className="dropbtn">Product</div>
+                                        <div className="dropdown_content1">
+                                            <a href="">Premium Features</a>
+                                            <a href="">Subscription Tiers</a>
+                                            <a href="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tinder Plus&#174;</a>
+                                            <a href="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tinder Gold&#8482;</a>
+                                            <a href="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tinder Platinum&#8482;</a>
+                                            <a href="">Swipe Night</a>
+                                        </div>
+
+
+                                    </div>
+                                    <div className="app_header_list_content_2">Learn</div>
+                                    <div className="app_header_list_content_3">
+                                        <div className="dropbtn">Safety</div>
+                                        <div className="dropdown_content2">
+                                            <a href="">Community Guidelines</a>
+                                            <a href="">Safety Tips</a>
+                                            <a href="">Safety & Policy</a>
+                                            <a href="">Safety & Reporting</a>
+                                            <a href="">Security</a>
+                                        </div>
+                                    </div>
+                                    <div className="app_header_list_content_4">Support</div>
+                                    <div className="app_header_list_content_5">Download</div>
+
+                                </div>
+
+                                <div className="app_header_language_login">
+                                    <div className="app_header_language"><i className="fa fa-language" />Language</div>
+                                    <div className="app_header_login">
+                                        <button className="btn_login">Log in</button>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div className="back_image_content1">Start Something Epic.</div>
+                        <button className="button_create_account">Create Account</button>
+                    </div>
                 </div>
             </div>
 
