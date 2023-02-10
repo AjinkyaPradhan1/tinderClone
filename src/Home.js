@@ -131,10 +131,28 @@ function Home() {
                             <div className="user_reviews_col1_row1" />
                             <div className="user_reviews_col1_row2" />
                         </div>
-                        <div className="user_reviews_col2" />
+                        <div className="user_reviews_col2">
+                            <img className="user_quotes" src="./images/quotes.jpg" alt="quotes" />
+                        </div>
                     </div>
-                    <div className="user_reviews2" />
-                    <div className="user_reviews3" />
+                    <div className="user_reviews2">
+                        <div className="user_reviews_col1">
+                            <div className="user_reviews_col1_row1" />
+                            <div className="user_reviews_col1_row2" />
+                        </div>
+                        <div className="user_reviews_col2">
+                            <img className="user_quotes" src="./images/quotes.jpg" alt="quotes" />
+                        </div>
+                    </div>
+                    <div className="user_reviews3" >
+                        <div className="user_reviews_col1">
+                            <div className="user_reviews_col1_row1" />
+                            <div className="user_reviews_col1_row2" />
+                        </div>
+                        <div className="user_reviews_col2">
+                            <img className="user_quotes" src="./images/quotes.jpg" alt="quotes" />
+                        </div>
+                    </div>
                 </div>
 
 
