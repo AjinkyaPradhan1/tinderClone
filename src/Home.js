@@ -128,8 +128,13 @@ function Home() {
                 <div className="user_reviews">
                     <div className="user_reviews1">
                         <div className="user_reviews_col1">
-                            <div className="user_reviews_col1_row1" />
-                            <div className="user_reviews_col1_row2" />
+                            <div className="user_reviews_col1_row1">
+                                Nishi dabora
+                                <hr className="hr_line" />
+                            </div>
+                            <div className="user_reviews_col1_row2">
+                                <img className="user_review_1" src="./images/review_1.png" alt="review1" />
+                            </div>
                         </div>
                         <div className="user_reviews_col2">
                             <img className="user_quotes" src="./images/quotes.jpg" alt="quotes" />
@@ -137,8 +142,13 @@ function Home() {
                     </div>
                     <div className="user_reviews2">
                         <div className="user_reviews_col1">
-                            <div className="user_reviews_col1_row1" />
-                            <div className="user_reviews_col1_row2" />
+                            <div className="user_reviews_col1_row1">
+                                Vaibhav
+                                <hr className="hr_line" />
+                            </div>
+                            <div className="user_reviews_col1_row2">
+                                <img className="user_review_1" src="./images/review_2.png" alt="review1" />
+                            </div>
                         </div>
                         <div className="user_reviews_col2">
                             <img className="user_quotes" src="./images/quotes.jpg" alt="quotes" />
@@ -146,8 +156,13 @@ function Home() {
                     </div>
                     <div className="user_reviews3" >
                         <div className="user_reviews_col1">
-                            <div className="user_reviews_col1_row1" />
-                            <div className="user_reviews_col1_row2" />
+                            <div className="user_reviews_col1_row1">
+                                Alister
+                                <hr className="hr_line" />
+                            </div>
+                            <div className="user_reviews_col1_row2">
+                                <img className="user_review_1" src="./images/review_3.png" alt="review1" />
+                            </div>
                         </div>
                         <div className="user_reviews_col2">
                             <img className="user_quotes" src="./images/quotes.jpg" alt="quotes" />
