@@ -186,7 +186,7 @@ function Home() {
                         <div className="app_footer_row1_col2_1">Careers</div>
                         <div className="app_footer_row1_col2_2">Careers Portal</div>
                         <div className="app_footer_row1_col2_3">Tech Blog</div>
-                        <div className="app_footer_row1_col2_3" />4</div>
+                        <div className="app_footer_row1_col2_3" />HEllow How are you</div>
                     <div className="app_footer_row1_col3" />
                     <div className="app_footer_row1_col4" />
                 </div>
