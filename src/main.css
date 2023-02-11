@@ -560,4 +560,21 @@
         font-size: 90%;
         margin-left:35%;
     }
+    .app_footer_row1_col3_1{
+        width: 100%;
+        height: 30%;
+        background-color: blue;
+        flex-grow: 3;
+    }
+    .app_footer_row1_col3_2{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 70%;
+        background-color: yellow;
+        flex-grow: 7;
+    }
+    
+
+
 /*App footer ends*/

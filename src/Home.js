@@ -188,10 +188,20 @@ function Home() {
                         <div className="app_footer_row1_col2_3">Tech Blog</div>
                     </div>
                     <div className="app_footer_row1_col3">
-                        <div className="app_footer_row1_col3_1">Careers</div>
-                        <div className="app_footer_row1_col3_2">Careers Portal</div>
+                        <div className="app_footer_row1_col3_1">
+                            {/* <img src="./images/facebook.png" className="facebook" alt="facebook" /> */}
+                        </div>
+                        <div className="app_footer_row1_col3_2">Careers</div>
+
+
                     </div>
-                    <div className="app_footer_row1_col4" />
+                    <div className="app_footer_row1_col4">
+                        <div className="app_footer_row1_col4_1">FAQ</div>
+                        <div className="app_footer_row1_col4_2">Destinations</div>
+                        <div className="app_footer_row1_col4_3">Press Room</div>
+                        <div className="app_footer_row1_col4_4">Contact</div>
+                        <div className="app_footer_row1_col4_4">Promo Code</div>
+                    </div>
                 </div>
                 <div className="app_footer_row2">Hello</div>
                 <div className="app_footer_row3">Hello</div>
