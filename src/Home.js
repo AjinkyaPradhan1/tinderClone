@@ -226,10 +226,14 @@ function Home() {
                     <div className="app_footer_row2_col1">
                         <div className="app_footer_row2_col1_1">Get the app!</div>
                         <div className="app_footer_row2_col1_2">
-                            <img src="./images/apple.png" alt="apple" className="apple" />
+                            <a href="https://apps.apple.com/us/app/tinder-dating-new-people/id547702041">
+                                <img src="./images/apple.png" alt="apple" className="apple" />
+                            </a>
                         </div>
                         <div className="app_footer_row2_col1_3">
-                            <img src="./images/google.png" alt="google" className="google" />
+                            <a href="https://play.google.com/store/apps/details?id=com.tinder&utm_medium=cta&utm_campaign=website_home">
+                                <img src="./images/google.png" alt="google" className="google" />
+                            </a>
                         </div>
                     </div>
                     <div className="app_footer_row2_col2" />
