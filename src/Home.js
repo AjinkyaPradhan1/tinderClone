@@ -94,19 +94,19 @@ function Home() {
 
 
                                     </div>
-                                    <div className="app_header_list_content_2">Learn</div>
+                                    <div className="app_header_list_content_2"><a href="https://tinder.com/about">Learn</a></div>
                                     <div className="app_header_list_content_3">
                                         <div className="dropbtn">Safety</div>
                                         <div className="dropdown_content2">
-                                            <a href="">Community Guidelines</a>
-                                            <a href="">Safety Tips</a>
-                                            <a href="">Safety & Policy</a>
-                                            <a href="">Safety & Reporting</a>
-                                            <a href="">Security</a>
+                                            <a href="https://policies.tinder.com/community-guidelines/intl/en">Community Guidelines</a>
+                                            <a href="https://policies.tinder.com/safety/intl/en">Safety Tips</a>
+                                            <a href="https://policies.tinder.com/safety-and-policy/intl/en">Safety & Policy</a>
+                                            <a href="https://policies.tinder.com/safety-and-policy/intl/en">Safety & Reporting</a>
+                                            <a href="https://policies.tinder.com/security/intl/en">Security</a>
                                         </div>
                                     </div>
-                                    <div className="app_header_list_content_4">Support</div>
-                                    <div className="app_header_list_content_5">Download</div>
+                                    <div className="app_header_list_content_4"><a href="https://www.help.tinder.com/hc/en-us?utm_source=web">Support</a></div>
+                                    <div className="app_header_list_content_5"><a href="https://tinder.com/download">Download</a></div>
 
                                 </div>
 
