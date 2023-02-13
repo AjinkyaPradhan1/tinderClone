@@ -461,13 +461,21 @@
     .app_footer_row1_col4{
         display:flex ;
         flex-direction: column;
-        align-items: flex-start;
+        align-items: flex-end;
         justify-content: left;
         font-size: 120%;
         color: black;
-        background-color: green;
+        background-color: transparent;
         width: 15%;
         height: 100%;
+    }
+    .app_footer_row1_col4_content{
+        width:80%;
+        height: 100%;
+        background-color: transparent;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
     }
     li{
         text-decoration: none;
@@ -620,5 +628,16 @@
         width: 50%;
         height: 60%;
     }
-
+    .app_footer_row1_col4_1{
+        font-size: 100%;
+        font-weight: 700;
+    }
+    .app_footer_row1_col4_2{
+        margin-top: 5%;
+        font-size: 90%;
+    }
+    .app_footer_row1_col4_3,.app_footer_row1_col4_4,.app_footer_row1_col4_5{
+        font-size: 90%;
+        line-height:25px;
+    }
 /*App footer ends*/

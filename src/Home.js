@@ -211,11 +211,13 @@ function Home() {
 
                     </div>
                     <div className="app_footer_row1_col4">
-                        <div className="app_footer_row1_col4_1">FAQ</div>
-                        <div className="app_footer_row1_col4_2">Destinations</div>
-                        <div className="app_footer_row1_col4_3">Press Room</div>
-                        <div className="app_footer_row1_col4_4">Contact</div>
-                        <div className="app_footer_row1_col4_4">Promo Code</div>
+                        <div className="app_footer_row1_col4_content">
+                            <div className="app_footer_row1_col4_1">FAQ</div>
+                            <div className="app_footer_row1_col4_2">Destinations</div>
+                            <div className="app_footer_row1_col4_3">Press Room</div>
+                            <div className="app_footer_row1_col4_4">Contact</div>
+                            <div className="app_footer_row1_col4_4">Promo Code</div>
+                        </div>
                     </div>
                 </div>
                 <div className="app_footer_row2">Hello</div>
