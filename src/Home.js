@@ -234,7 +234,15 @@ function Home() {
                     </div>
                     <div className="app_footer_row2_col2" />
                 </div>
-                <div className="app_footer_row3">Hello</div>
+                <div className="app_footer_row3">
+                    <div className="app_footer_row_content">
+                        <p>Single people, listen up: If you are looking for love, want to start dating, or just keep it casual, you need to be on Tinder. With over 55 billion matches made, it is the place to be to meet your next best match. Lets be real,
+                             the dating landscape looks very different today, as most people are meeting online. With Tinder, the worlds most popular free dating app, you have millions of other single people at your fingertips and they are all ready 
+                             to meet someone like you. Whether you are straight or in the LGBTQIA community, Tinder is here to bring you all the sparks</p>
+                        <p>There really is something for everyone on Tinder. Want to get into a relationship? You got it. Trying to find some new friends? Say no more. New kid on campus and looking to make the most of your college experience? 
+                            Tinder Us got you covered. Tinder isnt your average dating site — it is the most diverse dating app, where adults of all backgrounds and experiences are invited to make connections, memories, and everything in 
+                            between.</p>
+                    </div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               </div>
                 <div className="app_footer_row4">Hello</div>
             </div>
 
