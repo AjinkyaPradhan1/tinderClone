@@ -220,7 +220,20 @@ function Home() {
                         </div>
                     </div>
                 </div>
-                <div className="app_footer_row2">Hello</div>
+                <br />
+                <hr className="above_footer" />
+                <div className="app_footer_row2">
+                    <div className="app_footer_row2_col1">
+                        <div className="app_footer_row2_col1_1">Get the app!</div>
+                        <div className="app_footer_row2_col1_2">
+                            <img src="./images/apple.png" alt="apple" className="apple" />
+                        </div>
+                        <div className="app_footer_row2_col1_3">
+                            <img src="./images/google.png" alt="google" className="google" />
+                        </div>
+                    </div>
+                    <div className="app_footer_row2_col2" />
+                </div>
                 <div className="app_footer_row3">Hello</div>
                 <div className="app_footer_row4">Hello</div>
             </div>
