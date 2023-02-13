@@ -432,7 +432,7 @@
         font-size: 120%;
         color: black;
         background-color: white;
-        width: 15%;
+        width: 20%;
         height: 100%;
         
     }
@@ -444,7 +444,7 @@
         font-size: 120%;
         color: black;
         background-color: transparent;
-        width: 20%;
+        width: 15%;
         height: 100%;
     }
     .app_footer_row1_col3{
@@ -454,7 +454,7 @@
         justify-content: left;
         font-size: 120%;
         color: black;
-        background-color: red;
+        background-color: transparent;
         width: 20%;
         height: 100%;
     }
@@ -573,19 +573,52 @@
     }
     .app_footer_row1_col3_1{
         width: 100%;
-        height: 30%;
-        background-color: blue;
+        height: 20%;
+        background-color: transparent;
         flex-grow: 3;
+        display: flex;
+        align-items: flex-end;
+        justify-content: left;
+        font-size: 110%;
+        font-weight: 700;
     }
     .app_footer_row1_col3_2{
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         width: 100%;
-        height: 70%;
-        background-color: yellow;
+        height: 80%;
+        background-color: transparent;
         flex-grow: 7;
+        font-size: 80%;
+        
     }
-    
-
+    .app_footer_row1_col3_2_1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 20%;
+        height: 40%;
+        background-color: transparent;
+    }
+    .socialig{
+        width: 60%;
+        height: 60%;
+    }
+    .socialtk{
+        width: 50%;
+        height: 60%;
+    }
+    .socialyt{
+        width: 50%;
+        height: 60%;
+    }
+    .socialtw{
+        width: 50%;
+        height:60%;
+    }
+    .socialfb{
+        width: 50%;
+        height: 60%;
+    }
 
 /*App footer ends*/

@@ -189,10 +189,22 @@ function Home() {
                         <div className="app_footer_row1_col2_4" />
                     </div>
                     <div className="app_footer_row1_col3">
-                        <div className="app_footer_row1_col3_1" />
+                        <div className="app_footer_row1_col3_1">Social</div>
                         <div className="app_footer_row1_col3_2">
                             <div className="app_footer_row1_col3_2_1">
-                                <img src="./images/" className="facebook" alt="facebook" />
+                                <img src="./images/ig.png" className="socialig" alt="instagram" />
+                            </div>
+                            <div className="app_footer_row1_col3_2_1">
+                                <img src="./images/tiktok.png" className="socialtk" alt="tiktok" />
+                            </div>
+                            <div className="app_footer_row1_col3_2_1">
+                                <img src="./images/yt.png" className="socialyt" alt="youtube" />
+                            </div>
+                            <div className="app_footer_row1_col3_2_1">
+                                <img src="./images/twitter.png" className="socialtw" alt="twitter" />
+                            </div>
+                            <div className="app_footer_row1_col3_2_1">
+                                <img src="./images/fb.png" className="socialfb" alt="facebook" />
                             </div>
                         </div>
 
