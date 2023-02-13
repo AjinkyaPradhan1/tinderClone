@@ -243,7 +243,7 @@ function Home() {
                             Tinder Us got you covered. Tinder isnt your average dating site — it is the most diverse dating app, where adults of all backgrounds and experiences are invited to make connections, memories, and everything in 
                             between.</p>
                     </div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               </div>
-                <div className="app_footer_row4">Hello</div>
+                <div className="app_footer_row4">FAQ&nbsp;&nbsp;/&nbsp;&nbsp;Safety Tips&nbsp;&nbsp;/&nbsp;&nbsp;Terms&nbsp;&nbsp;/&nbsp;&nbsp;Cookie Policy&nbsp;&nbsp;/&nbsp;&nbsp;Privacy Settings</div>
             </div>
 
         </div>
