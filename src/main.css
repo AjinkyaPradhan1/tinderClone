@@ -26,7 +26,7 @@
 }
 
 .app_footer{
-    background-color: red;
+    background-color: transparent;
     display: flex;
     position: absolute;
     flex-direction: column;
@@ -399,7 +399,7 @@
         flex-direction: row;
         width: 100%;
         height: 50%;
-        background-color: orange;
+        background-color: transparent;
         
     }
 
@@ -439,11 +439,11 @@
     .app_footer_row1_col2{
         display:flex ;
         flex-direction: column;
-        align-items: flex-start;
-        justify-content: left;
+        align-items: center;
+        justify-content: center;
         font-size: 120%;
         color: black;
-        background-color: orange;
+        background-color: transparent;
         width: 20%;
         height: 100%;
     }
@@ -529,8 +529,8 @@
 
     .app_footer_row1_col2_1{
         display: flex;
-        justify-content: flex-start;
-        align-items: flex-start;
+        justify-content: left;
+        align-items: center;
         flex-grow: 1;
         width: 100%;
         height: 10%;
@@ -538,19 +538,30 @@
         font-size: 110%;
         font-weight: 600;
         margin-top: 0%;
-        margin-left:35%;
+        
     }
     .app_footer_row1_col2_2{
         display: flex;
-        justify-content: flex-start;
+        justify-content: left;
         flex-grow: 1;
         width: 100%;
         height: 10%;
         background-color: transparent;
         font-size: 90%;
-        margin-left:35%;
+        line-height:30px;
+        
     }
     .app_footer_row1_col2_3{
+        display: flex;
+        justify-content: left;
+        flex-grow: 1;
+        width: 100%;
+        height: 10%;
+        background-color: transparent;
+        font-size: 90%;
+        
+    }
+    .app_footer_row1_col2_4{
         display: flex;
         justify-content: flex-start;
         flex-grow: 1;

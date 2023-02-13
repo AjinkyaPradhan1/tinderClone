@@ -186,12 +186,15 @@ function Home() {
                         <div className="app_footer_row1_col2_1">Careers</div>
                         <div className="app_footer_row1_col2_2">Careers Portal</div>
                         <div className="app_footer_row1_col2_3">Tech Blog</div>
+                        <div className="app_footer_row1_col2_4" />
                     </div>
                     <div className="app_footer_row1_col3">
-                        <div className="app_footer_row1_col3_1">
-                            {/* <img src="./images/facebook.png" className="facebook" alt="facebook" /> */}
+                        <div className="app_footer_row1_col3_1" />
+                        <div className="app_footer_row1_col3_2">
+                            <div className="app_footer_row1_col3_2_1">
+                                <img src="./images/" className="facebook" alt="facebook" />
+                            </div>
                         </div>
-                        <div className="app_footer_row1_col3_2">Careers</div>
 
 
                     </div>
